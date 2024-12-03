@@ -21,7 +21,7 @@ public class Veterinaria {
                 System.out.println("1. Registrar atencion");
                 System.out.println("2. Mostrar resumen del dia");
                 System.out.println("3. Salir");
-                System.out.print("Seleccione una opcion: ");
+                System.out.print("Seleccione una opcion porfavor: ");
                 opcion = sc.nextInt();
                 sc.nextLine();
                 
